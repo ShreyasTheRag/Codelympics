@@ -1,0 +1,7 @@
+step
+step
+jump
+while dist(hurdle) > 10.5
+	step
+end
+jump
